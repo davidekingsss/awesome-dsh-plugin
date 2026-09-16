@@ -1,0 +1,6 @@
+url: https://github.com/davidekingsss/dsh-screen-eye
+name: davidekingsss/dsh-screen-eye
+category: vision
+description:
+  en: 'An oculomotor nerve for the model rather than a vision bridge: `screenshot` captures the whole desktop, a region in screen coordinates, a numbered display, or the foreground window and returns the image itself in the same tool result, with no API key or external service in between, and bursts that can wait for motion to start and end when the picture settles; `screen_permission` reports the macOS Screen Recording grant and how to give it. macOS and Windows, for callers that accept images.'
+  zh: '给 DeepSeek 装上动眼神经，而不是接一座视觉桥：`screenshot` 可截取整个桌面、屏幕坐标下的区域、指定编号的显示器或前台窗口，并把图像本身放进同一条工具结果返回，中间没有 API key，也没有外部服务，连拍能等到画面出现变化才开始、并在画面静止时结束；macOS 上另有 `screen_permission` 汇报屏幕录制授权状态与开启方法。支持 macOS 与 Windows，调用方需能读图。'
